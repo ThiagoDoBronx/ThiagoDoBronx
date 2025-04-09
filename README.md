@@ -1,19 +1,17 @@
 # Olá mundo, para os amantes de programação deixo a vós meu legado by [Thiago do Bronx](https://wa.link/k2qiqs) 🪄
 
-
-## Contém muita programação 001010101 📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Contém muita programação 001010101 📂  
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
-  
-<summary>:zap: Status do Repositório <summary>
+<summary>⚡ Status do Repositório</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodobronx&show_icons=true&theme=chartreuse-dark)
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoStdio&show_icons=true&theme=chartreuse-dark)
+
 </details>
 
 <details>
-  
-  <summary>:zap: Ferramentas e Linguagens </summary>
+<summary>🛠️ Ferramentas e Linguagens</summary>
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -36,39 +34,32 @@
 <img align="left" alt="PYTON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </details>
 
+---
 
+## **⚙️ Automação & Inovação Tecnológica**
+
+Mergulhe no universo da **robótica avançada**, projetos **STEM** (*Science, Technology, Engineering & Math*), **inteligência artificial** aplicada a indicadores de médias móveis, **transdutores de energia** e soluções em **Internet das Coisas (IoT)**.  
+> **Tecnologia, criatividade e engenharia unidas para transformar ideias em realidade.**
 
 ---
 
-### <div align="center">Desenvolvedor Thiago Martins</div>
+## **🧪 Exercícios & Projetos Práticos**
 
-# Tipos de projetos:
-
-### <img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" />Automação
-
-
-### Projetos de robótica avançada, Science, Technology, Engineering, Códigos para I.A.(Indicadores de Médias Móveis)(STEM), Trandutores de Energia e IOT.
-
-
-### :ocean:     Exercícios e Projetos
-
-### Exercicíos de fixação e projetos para expansão de atividades acadêmicas.
-
-
-### :page_facing_up:     Extensão para Acadêmicos
-
-
-### Descrição de projetos pré instruidos, aqui eu incluo algumas informações para criar os projetos.
-
+Pratique com exercícios direcionados e projetos desafiadores que estimulam a lógica, programação e resolução de problemas.  
+> **Da teoria à prática, com propósito.**
 
 ---
 
+## **🎓 Extensões Acadêmicas**
 
-
-### :ghost:     Commits 2025
+Projetos pré-instruídos com guias passo a passo, voltados para aplicação em sala de aula, TCCs ou iniciativas de aprendizado independente.  
+> **Conteúdo preparado para impulsionar o desenvolvimento acadêmico.**
 
 ---
-[LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/thiago-c-621365175/)
+
+## <div align="center">Desenvolvedor Thiago Martins</div>
+
+[LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/) [<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/thiago-c-621365175/)
 
 
 
