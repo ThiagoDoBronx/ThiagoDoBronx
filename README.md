@@ -38,14 +38,14 @@
 
 ## **⚙️ Automação & Inovação Tecnológica**
 
-Mergulhe no universo da **robótica avançada**, projetos **STEM** (*Science, Technology, Engineering & Math*), **inteligência artificial** aplicada a indicadores de médias móveis, **transdutores de energia** e soluções em **Internet das Coisas (IoT)**.  
+Eis o universo da **robótica avançada**, projetos **STEM** (*Science, Technology, Engineering & Math*), **inteligência artificial** aplicada a indicadores de médias móveis, **transdutores de energia** e soluções em **Internet das Coisas (IoT)**.  
 > **Tecnologia, criatividade e engenharia unidas para transformar ideias em realidade.**
 
 ---
 
 ## **🧪 Exercícios & Projetos Práticos**
 
-Pratique com exercícios direcionados e projetos desafiadores que estimulam a lógica, programação e resolução de problemas.  
+Contém exercícios direcionados e projetos desafiadores que estimulam a lógica, programação e resolução de problemas.  
 > **Da teoria à prática, com propósito.**
 
 ---
