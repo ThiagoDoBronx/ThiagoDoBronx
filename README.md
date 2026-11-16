@@ -15,4 +15,4 @@ Estudante de Tecnologia em Cibersegurança. Mexo com computador desde os 12 anos
 
 ## Sobre os repositórios
 
-O código dos projetos fica em repositórios privados. As páginas de estudo e o portfólio vão sair aos poucos em **thiagodobronx.github.io**.
+O código dos projetos fica em repositórios privados.
